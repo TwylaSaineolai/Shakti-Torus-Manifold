@@ -1,6 +1,6 @@
 ŚAKTI TORUS MANIFOLD – RESEARCH LICENSE (STM‑RL 1.0)
 
-Copyright © 2025 [Your Name]
+Copyright © 2026 Twla Saineolai 
 All rights reserved.
 
 This license governs use of the Śakti Torus Manifold model, its source code,
