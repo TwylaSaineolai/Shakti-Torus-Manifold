@@ -2,7 +2,7 @@ The Śakti Torus Manifold (STM) is an open, Python‑based model that repr
 
 This repository provides all simulation code, parameter sets, and documentation for studying and extending the model as a theoretical tool. It is not a spiritual or therapeutic practice; its purpose is analytical, mathematical, and contemplative.
 
-License and Intent
-> © 2025 Twyla Saineolai. Licensed under CC BY‑NC 4.0.   
-> This repository provides the Śakti Torus Manifold model for study, simulation, and philosophical research.  
-> It is not a spiritual or therapeutic practice. Commercial use is prohibited.
+   > License 
+   > Licensed under **STM‑RL 1.0**.  
+   > Non‑commercial research permitted with attribution.  
+   > Commercial or AI development requires author permission.
