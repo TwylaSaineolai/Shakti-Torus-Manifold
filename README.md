@@ -6,3 +6,8 @@ This repository provides all simulation code, parameter sets, and documentation 
    > Licensed under **STM‑RL 1.0**.  
    > Non‑commercial research permitted with attribution.  
    > Commercial or AI development requires author permission.
+> 
+
+## Contact
+For collaboration or licensing inquiries: shiloh.element@gmail.com
+
