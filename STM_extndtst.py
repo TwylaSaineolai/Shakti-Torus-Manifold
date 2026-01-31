@@ -1,6 +1,6 @@
 
 """
-Śakti Torus Manifold (STM)
+Śakti Torus Manifold (STM) © 2026 TS
 Coupled‑oscillator model with two geometric symmetry regimes
 and full labeled diagnostic output.
 """
